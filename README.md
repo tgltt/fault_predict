@@ -12,7 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;模型采用GRU+注意力机制。
 
 3、项目运行效果 <br>
-下图红色折色折线为原始数据，蓝色折线为相应的预测数据，拟合效果见图。
+&nbsp;&nbsp;&nbsp;&nbsp;下图红色折色折线为原始数据，蓝色折线为相应的预测数据，拟合效果见图。
+<img width="524" alt="66a3970c4229bb904bb3f680abf9557" src="https://github.com/tgltt/fault_predict/assets/36066270/3053f335-4fdc-40f5-ba66-9bef6fc77842">
 
 
 
